@@ -1,26 +1,27 @@
 ﻿candy bar,chocolate,peanuts,caramel,nougat,cookie_wafer_rice,coconut,white_chocolate,multi,availability
-CoffeeCrisp,1,0,0,0,1,0,0,0,Canada
+CoffeeCrisp,1,0,0,0,1,0,0,0,America
 Butterfinger,1,1,1,0,0,0,0,0,America
-Skor,1,0,1,0,0,0,0,0,Canada
+Skor,1,0,1,0,0,0,0,0,America
 Smarties,1,0,0,0,0,0,0,1,Canada
-Twix,1,0,1,0,1,0,0,1,Both
-ReesesPeanutButterCups ,1,1,0,0,0,0,0,1,Both
+Twix,1,0,1,0,1,0,0,1,America
+ReesesPeanutButterCups ,1,1,0,0,0,0,0,1,America
 3Musketeers,1,0,0,1,0,0,0,0,America
 Kinder Surprise,1,0,0,0,0,0,1,0,Canada
 M&Ms,1,1,0,0,0,0,0,1,Canada
 Glosettes,1,0,0,0,0,0,0,1,Canada
-KitKat,1,0,0,0,1,0,0,1,Both
+KitKat,1,0,0,0,1,0,0,1,America
 Babe Ruth,1,1,1,1,0,0,0,0,America
 Caramilk,1,0,1,0,0,0,0,0,Canada
 Aero,1,0,0,0,0,0,0,0,Canada
 Mars,1,0,1,1,0,0,0,0,Both
 Payday,0,1,1,0,0,0,0,0,America
-Snickers,1,1,1,1,0,0,0,0,Canada
-Crunchie,1,0,0,0,0,0,0,0,Canada
+Snickers,1,1,1,1,0,0,0,0,America
+Crunchie,1,0,0,0,0,0,0,0,America
 Wonderbar ,1,1,1,0,0,0,0,0,Canada
 100Grand ,1,0,1,0,1,0,0,0,America
 Take5,1,1,1,0,1,0,0,0,America
 Whatchamacallits,1,1,0,0,1,0,0,0,America
 AlmondJoy,1,0,0,0,0,1,0,0,America
-OhHenry,1,1,1,0,0,0,0,0,Both
+OhHenry,1,1,1,0,0,0,0,0,America
 CookiesandCream,0,0,0,0,1,0,1,0,Both
+
